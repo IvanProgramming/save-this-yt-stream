@@ -3,8 +3,7 @@ Python programm, that can be used for recording streams
 
 *Версия - 1.0 beta*
 
-**Программа на питоне, используемая для скачивания стримов с ютуба
-**
+
 
 ------------
 
