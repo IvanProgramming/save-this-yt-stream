@@ -1,8 +1,8 @@
 # SAVE-THIS-YT-STREAM
 Python programm, that can be used for recording streams
 
-*Версия - 1.0 beta*
-
+*Версия - 1.0.0.1 beta*
+- Добавлена возможность собрать все файлы в один mp4 при краше приложения -
 
 
 ------------
