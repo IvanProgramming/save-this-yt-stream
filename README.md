@@ -25,3 +25,8 @@ Python programm, that can be used for recording streams
 	`python save-stream.py` 
 - В Linux -
 	`python3 save-stream.py` 
+
+------------
+E-Mail - ivan@ttdl.ru
+VK - [@crush_bandicot](https://vk.com/crush_bandicot "@crush_bandicot")
+Discord - IvanIsPlaying#5024
