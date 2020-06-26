@@ -91,7 +91,6 @@ def record_stream(url, total_time, tmp_folder, output_file, block_size=20):
             counter += 1
             log_print('Writing segment {0}. File path - {1} . Left {2} segments and {3} seconds'
                   .format(counter, tmp_file_path, total_iter - counter,(total_iter - counter)*segment_duration),1)
-            sleep(segment_duration-1)
     merge_all(tmp_folder, output_file)
     log_print('Total time - {0} s'
               .format(round(datetime.datetime.now().timestamp() - start_time)), 1)
